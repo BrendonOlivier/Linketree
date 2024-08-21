@@ -1,4 +1,4 @@
-<h1 align="center">LnikTree Brendon 🙋</h1>
+<h1 align="center">LinkTree Brendon 🙋</h1>
 <br>
 <h2 align="center">Projeto simples com os links de minhas redes sociais e portfólio. Totalmente responsivo.</h2>
 
